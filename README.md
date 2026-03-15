@@ -12,9 +12,7 @@ This project is an Arduino-based robot designed to autonomously follow a marked 
 
 ## Demo Video
 
-Click the image below to watch the robot following a marked path.
-
-[![Robot Demo](line-following-picture.PNG)](line-following-demo.mp4)
+[Watch the Line-Following Robot Demo](line-following-demo.mp4)
 
 ---
 
